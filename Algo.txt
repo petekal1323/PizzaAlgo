@@ -1,2 +1,2 @@
-1. Decide which business to order format_align_center
+1a. Decide which business to order format_align_center
 2. Decide which type of pizza to order
